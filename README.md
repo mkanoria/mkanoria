@@ -2,7 +2,7 @@
 
 
 I'm Mayank, and I study Software Engineering at the University of Waterloo! 💻 \
-I'm an incoming Backend Engineering Intern at [Vision Critical](https://www.visioncritical.com/) and most recently worked as a Software Engineering Intern at [Squarepoint Capital](https://squarepoint-capital.com/) on the Market Data team. ☕
+I'm a Backend Engineering Intern at [Alida (formerly Vision Critical)](https://www.alida.com/) and most recently worked as a Software Engineering Intern at [Squarepoint Capital](https://squarepoint-capital.com/) on the Market Data team. ☕
 
 I'm always on the lookout for future internship opportunities, and you can reach out to me on [Linkedin](https://www.linkedin.com/in/mayank-kanoria/) 😄
 
